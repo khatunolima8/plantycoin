@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PlantyCoin (PLNT) — Grow your memes, grow your planet</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      background: #f0fff4;
+      color: #052d15;
+      text-align: center;
+    }
+    header {
+      background: #1BAF59;
+      color: white;
+      padding: 40px 20px;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    h2 { margin-top: 50px; }
+    p { font-size: 1.1rem; line-height: 1.6; }
+    .btn {
+      display: inline-block;
+      background: #1BAF59;
+      color: white;
+      text-decoration: none;
+      padding: 12px 24px;
+      border-radius: 30px;
+      font-weight: bold;
+      margin: 20px 10px;
+      transition: 0.3s;
+    }
+    .btn:hover { background: #16984f; }
+    footer {
+      margin-top: 60px;
+      padding: 20px;
+      background: #e9fce9;
+      border-top: 1px solid #c5e8c5;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🌱 PlantyCoin (PLNT)</h1>
+    <p>Grow your memes, grow your planet</p>
+    <a class="btn" href="#">🚀 Buy on Pump.fun</a>
+  </header>
+
+  <section>
+    <h2>About Planty</h2>
+    <p>PlantyCoin is a community-driven green memecoin 🌿 built on Solana. <br>
+    Every meme you share helps grow awareness for tree planting & sustainability.</p>
+
+    <h2>Tokenomics</h2>
+    <p>💰 Total Supply: 1,000,000,000 PLNT <br>
+    🌍 Fair Launch • 0% Tax • 100% Fun</p>
+
+    <a class="btn" href="#">💬 Join Telegram</a>
+    <a class="btn" href="#">🐦 Follow on X</a>
+  </section>
+
+  <footer>
+    © 2025 PlantyCoin — A meme for a greener world. 💚
+  </footer>
+</body>
+</html>
